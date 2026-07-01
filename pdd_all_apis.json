@@ -1,0 +1,217 @@
+[
+  {
+    "url": "https://mobile.yangkeduo.com/search_result.html?search_key=%E6%89%8B%E6%9C%BA%E5%A3%B3",
+    "type": "document",
+    "body_preview": "<!DOCTYPE html><html lang=\"zh-Hans\" data-theme='light'><head><meta charSet=\"utf-8\"/><script>!function(t){var e=t._plt=t._plt||[];e.push([\"tm\",\"ps\",+new Date]),(t.requestAnimationFrame||t.webkitRequestAnimationFrame||t.setTimeout)(function(){e.push([\"tm\",\"fraf\",+new Date])})}(window);!function(){if(\"PerformanceLongTaskTiming\" in window){var g=window.__tti={e:[]};g.o=new PerformanceObserver(function(l){g.e=g.e.concat(l.getEntries())});g.o.observe({entryTypes:[\"longtask\"]})}}();!function(){var e,t,"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/css/search_result_8f797f8654557da7782b.css",
+    "type": "stylesheet",
+    "body_preview": "._2c09EThh{-webkit-animation:_2gSfzSZh .3s;animation:_2gSfzSZh .3s;background:rgba(0,0,0,.8);border-radius:.08rem;padding:.15rem .16rem;max-width:2.29rem;text-align:center;overflow:hidden;line-height:.18rem;font-size:.15rem;color:#fff}@-webkit-keyframes _2gSfzSZh{0%{opacity:0}to{opacity:1}}@keyframes _2gSfzSZh{0%{opacity:0}to{opacity:1}}\n._3tX2o67p{z-index:11001;position:fixed;top:0;bottom:0;left:0;right:0;display:flex;align-items:center;justify-content:center}\n._3vblRuQJ{position:absolute;width"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/css/SearchBar2_954bed4fa41d2924a2f5.css",
+    "type": "stylesheet",
+    "body_preview": "._21fPqwW-{position:relative;height:.48rem;line-height:.48rem;font-size:.16rem}._21fPqwW-:after{content:\"\";position:absolute;top:0;left:0;width:200%;height:200%;border-bottom:1px solid #f2f2f2;-webkit-transform:scale(.5);transform:scale(.5);-webkit-transform-origin:left top;transform-origin:left top}._21fPqwW-:last-child:after{display:none}._192nzhy1{color:#e02e24}\n._25tyGHg6{width:200vw;height:200vh;top:-100px;left:-100vw;bottom:0;right:-100vw;z-index:10005}._3LSIiN6v,._25tyGHg6{position:absolu"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/css/SearchResultQueryTab_215cb7f66a9b897fb0e7.css",
+    "type": "stylesheet",
+    "body_preview": ".TPEUReq2,.qpvZIzrs{height:.42rem;background-color:#fff}.TPEUReq2{position:fixed;padding:.01rem 0;top:0;overflow-x:scroll;width:100%;max-width:768px;overflow-y:hidden;z-index:1000;border-bottom:1px solid #ededed}.dQ38X-GB{height:.4rem;padding:0 .14rem;align-items:center;white-space:nowrap;overflow-x:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch;scrollbar-width:none;-ms-overflow-style:none}.dQ38X-GB::-webkit-scrollbar{display:none}._273KBZSw{margin-right:.16rem;height:.4rem;display:inli"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/css/widgets_f7c2da2eb9b6bd326041.css",
+    "type": "stylesheet",
+    "body_preview": "._2vngf1nx{width:2rem;margin:0 auto;text-align:center;position:relative;padding-left:.15rem}._1T6OqqYd{background-image:url(https://funimg.pddpic.com/mobile-subjects/2019-04-15/loading.png);background-repeat:no-repeat;background-size:contain;position:absolute;top:.1rem;left:.33rem;width:.25rem;height:.25rem;-webkit-animation:_2WJLq8-v 1s linear 0s infinite;animation:_2WJLq8-v 1s linear 0s infinite;margin-top:0!important}._2pMpa5p1{line-height:.45rem;font-weight:400;font-size:.15rem;margin-left:."
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/react_pdd_4453de3d6397dc103f33.js",
+    "type": "script",
+    "body_preview": "(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[5649],{28447:function(e){e.exports={root:\"QkGS9nId\",bigger:\"_2h3oObbv\"}},74160:function(e){e.exports={root:\"_3vblRuQJ\",cuiSpinner:\"_2VSYZIBr\",bigger:\"_3z8HdYNn\"}},61419:function(e){e.exports={root:\"_2c09EThh\",fadeIn:\"_2gSfzSZh\"}},30360:function(e){e.exports={root:\"_3tX2o67p\"}},64046:function(){},50241:function(){},47069:function(e,t,n){\"use strict\";n.d(t,{Rz:function(){return w}});var r=n(14242),i=n(56687),o=n(22751),a="
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/1579_8702723345d45e16d759.js",
+    "type": "script",
+    "body_preview": "(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[1579],{37217:function(t,n,e){var r=e(80079),o=e(51420),c=e(90938),i=e(63605),u=e(29817),a=e(80945);function s(t){var n=this.__data__=new r(t);this.size=n.size}s.prototype.clear=o,s.prototype.delete=c,s.prototype.get=i,s.prototype.has=u,s.prototype.set=a,t.exports=s},37828:function(t,n,e){var r=e(9325).Uint8Array;t.exports=r},91033:function(t){t.exports=function(t,n,e){switch(e.length){case 0:return t.call(n);case 1:retu"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/vendors_021ef715365074aac11f.js",
+    "type": "script",
+    "body_preview": "(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[8096],{72505:function(e,t,n){e.exports=n(18015)},35592:function(e,t,n){\"use strict\";var r=n(9516),o=n(7522),i=n(33948),a=n(79106),u=n(99615),l=n(62012),s=n(64202),c=n(94896),f=n(5845),d=n(28563),p=n(25656),h=n(95721);e.exports=function(e){return new Promise((function(t,n){var v,y=e.data,m=e.headers,g=e.responseType,b=r.hasOwnProperty(e,\"withXSRFToken\")?e.withXSRFToken:void 0;function w(){e.cancelToken&&e.cancelToken.uns"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/widgets_ab19adaca2cfd5c3f493.js",
+    "type": "script",
+    "body_preview": "(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[4854,6658,5851],{21549:function(e,t,n){var r=n(22032),o=n(63862),i=n(66721),a=n(12749),s=n(35749);function c(e){var t=-1,n=null==e?0:e.length;for(this.clear();++t<n;){var r=e[t];this.set(r[0],r[1])}}c.prototype.clear=r,c.prototype.delete=o,c.prototype.get=i,c.prototype.has=a,c.prototype.set=s,e.exports=c},80079:function(e,t,n){var r=n(63702),o=n(70080),i=n(24739),a=n(48655),s=n(31175);function c(e){var t=-1,n=null==e?0:"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/8026_f8d07b3209731328ec53.js",
+    "type": "script",
+    "body_preview": "(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[8026],{75369:function(t,n,r){\"use strict\";var e=r(92127),o=r(66179)(6),a=\"findIndex\",i=!0;a in[]&&Array(1)[a]((function(){i=!1})),e(e.P+e.F*i,\"Array\",{findIndex:function(t){return o(this,t,arguments.length>1?arguments[1]:void 0)}}),r(88184)(a)},21549:function(t,n,r){var e=r(22032),o=r(63862),a=r(66721),i=r(12749),u=r(35749);function c(t){var n=-1,r=null==t?0:t.length;for(this.clear();++n<r;){var e=t[n];this.set(e[0],e[1"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/1918_c63d0c52aa0abf5912cf.js",
+    "type": "script",
+    "body_preview": "(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[1918],{57762:function(t,n,e){var r=e(92127);r(r.P,\"Array\",{fill:e(35564)}),e(88184)(\"fill\")},55827:function(t,n,e){\"use strict\";var r=e(6356),i=e(22751),u=e(29659),o=(e(11430),e(29435)),c=new(function(){function t(){(0,i.A)(this,t),this.data={}}return(0,u.A)(t,[{key:\"register\",value:function(t,n){this.data[t]?Object.assign(this.data[t],n):this.data[t]=n}},{key:\"matchModel\",value:function(t){var n=t.code,e=t.uid,i=t.mode"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/5819_31fbef503a0da1a3f737.js",
+    "type": "script",
+    "body_preview": "(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[5819],{46166:function(e,t,r){\"use strict\";var n=r(33514).createContext({insertCss:null});e.exports=n},43973:function(e,t,r){\"use strict\";var n=r(33514),i=r(46166);e.exports=function(){for(var e=arguments.length,t=new Array(e),r=0;r<e;r++)t[r]=arguments[r];var o=n.useContext(i).insertCss;if(!o)throw new Error('Please provide \"insertCss\" function by StyleContext.Provider');var a=function(){var e=o.apply(void 0,t);return f"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/SearchResultQueryTab_4b5e963e33442b459cef.js",
+    "type": "script",
+    "body_preview": "(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[7201],{65912:function(e){e.exports={fixedOptTab:\"TPEUReq2\",wrap:\"qpvZIzrs\",navContainer:\"dQ38X-GB\",navItem:\"_273KBZSw\",navItemTheme:\"_1qr1T8St\",navItemActive:\"Cf9iqYeW\",navItemActiveTheme:\"_1Xzss56y\",textActive:\"y4tD8-Mg\",textActiveTheme:\"_14veIWnl\"}},85781:function(e){e.exports={wrap:\"_3hGNu_Fi\",divideContiner:\"iDGc7xJs\",divideContinerTheme:\"_3xYGrAWX\",fixedSearchBar:\"_2_GVewbZ\",navContainer:\"_1GdnxcbL\",navItem:\"_3ys0q"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/search_result_32bb855b1e2f0e871a5e.js",
+    "type": "script",
+    "body_preview": "(function(){var e={58156:function(e,t,r){var n=r(47422);e.exports=function(e,t,r){var a=null==e?void 0:n(e,t);return void 0===a?r:a}},98023:function(e,t,r){var n=r(72552),a=r(40346);e.exports=function(e){return\"number\"==typeof e||a(e)&&\"[object Number]\"==n(e)}},85015:function(e,t,r){var n=r(72552),a=r(56449),i=r(40346);e.exports=function(e){return\"string\"==typeof e||!a(e)&&i(e)&&\"[object String]\"==n(e)}},60923:function(e){e.exports={container:\"_1rLYV-PV\",content:\"_111jFr3o\"}},84685:function(e){e"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/9532_e8151c68ab864e42a09b.js",
+    "type": "script",
+    "body_preview": "(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[9532],{38890:function(e){e.exports={mask:\"_3wbx7eBk\",content:\"_1zXkh_iJ\",text:\"_3mHhEueK\",bottom:\"_1oeebq6G\",cancel:\"_2YXt-7P7\",confirm:\"RfVa_uyx\"}},21796:function(e){e.exports={searchBoxPlaceholder:\"bvZKYfsR\"}},96752:function(e){e.exports={wrap:\"_1ip7BikD\"}},79908:function(e,r,n){\"use strict\";var t=n(33514);if(3332!=n.j)var u=n(84110);r.A=3332!=n.j?(0,t.memo)((function(e){return function(e){(0,t.useEffect)((function(){"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/3636_c6a7e75f684647d6b36c.js",
+    "type": "script",
+    "body_preview": "(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[3636],{53636:function(t){\"undefined\"!=typeof self&&self,t.exports=function(t){var n={};function r(e){if(n[e])return n[e].exports;var o=n[e]={i:e,l:!1,exports:{}};return t[e].call(o.exports,o,o.exports,r),o.l=!0,o.exports}return r.m=t,r.c=n,r.d=function(t,n,e){r.o(t,n)||Object.defineProperty(t,n,{enumerable:!0,get:e})},r.r=function(t){\"undefined\"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(t,Symbol.toString"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/RiskControl_c1915d2abe04d1c00f68.js",
+    "type": "script",
+    "body_preview": "\"use strict\";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[4541,211],{43016:function(n,e,r){r.r(e);var t=r(53636);e.default=7244!=r.j?t:null},7550:function(n,e,r){r.r(e),r.d(e,{default:function(){return a}});var t=r(22751),u=r(29659),i=r(1007),l=r(69685),o=r(33514),s=r(68666),a=function(n){(0,i.A)(r,n);var e=(0,l.A)(r);function r(n){var u;(0,t.A)(this,r);var i=(u=e.call(this,n)).props.serverTime;return s.A.getInstance({serverTime:i}).initRiskController(),u}return(0"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/5472_055f9fb54077ec53a8f9.js",
+    "type": "script",
+    "body_preview": "(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[5472],{57762:function(e,o,n){var r=n(92127);r(r.P,\"Array\",{fill:n(35564)}),n(88184)(\"fill\")},58156:function(e,o,n){var r=n(47422);e.exports=function(e,o,n){var t=null==e?void 0:r(e,o);return void 0===t?n:t}},98023:function(e,o,n){var r=n(72552),t=n(40346);e.exports=function(e){return\"number\"==typeof e||t(e)&&\"[object Number]\"==r(e)}},85015:function(e,o,n){var r=n(72552),t=n(56449),i=n(40346);e.exports=function(e){return"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/2129_d339fd545423050093c6.js",
+    "type": "script",
+    "body_preview": "(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[2129],{92151:function(e){var t={utf8:{stringToBytes:function(e){return t.bin.stringToBytes(unescape(encodeURIComponent(e)))},bytesToString:function(e){return decodeURIComponent(escape(t.bin.bytesToString(e)))}},bin:{stringToBytes:function(e){for(var t=[],r=0;r<e.length;r++)t.push(255&e.charCodeAt(r));return t},bytesToString:function(e){for(var t=[],r=0;r<e.length;r++)t.push(String.fromCharCode(e[r]));return t.join(\"\")}}"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/SearchBar2_7a2dc8da3a4a3f4af4a1.js",
+    "type": "script",
+    "body_preview": "(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[4708],{35896:function(e){e.exports={wrap:\"_3cEsXABE\",wrapContainer:\"_7kAYEyu4\",back:\"_1H06oEI0\",inputContainer:\"_3Nw7PW_X\",withBack:\"_3-xVn9Qo\",searchInput:\"_3oOM3OKF\",searchHint:\"_3R5_GCWD\",tagWrap:\"_2gTyX8PN\"}},34263:function(e){e.exports={tagItem:\"_3rOGJ4Ja\",icon:\"_2VOVlYkh\"}},57162:function(e){e.exports={searchIcon:\"_3NozHHbx\"}},18124:function(e){e.exports={imgIconWrap:\"_2MscmIIu\",icon:\"_3a9dUxTC\"}},66251:function(e"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/css/GuessQuery_31e790799150149cb465.css",
+    "type": "other",
+    "body_preview": ""
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/GuessQuery_1fd3bee6ffc6435199b2.js",
+    "type": "other",
+    "body_preview": ""
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/ms_web_c_fa59384a8204b7bf6a85.js",
+    "type": "script",
+    "body_preview": "\"use strict\";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[8666],{49169:function(e,t,r){r.r(t),r.d(t,{default:function(){return L}});var n=r(22751),a=r(29659),i=r(1007),s=r(69685),u=r(80877),A=r(91453),h=r(26948),_=r(29018),c=r(14800),o=r(74533),l=r(11286),E=r.n(l),p=(r(11430),r(10236)),C=r(84827),f=function(e){(0,i.A)(u,e);var t,r=(0,s.A)(u);function u(){return(0,n.A)(this,u),r.apply(this,arguments)}return(0,a.A)(u,[{key:\"normalize\",value:(t=(0,o.A)(E().mark((func"
+  },
+  {
+    "url": "https://static.pddpic.com/assets-rcf/b9216582_5ff402abeecb832c0ff183c9300e8403.js",
+    "type": "script",
+    "body_preview": "function _0x2d5f(){var _0x51675=['\\x74\\x6f\\x75\\x63\\x68\\x3a\\x73\\x74\\x61\\x72\\x74','\\x6e\\x61\\x76\\x69\\x67\\x61\\x74\\x6f\\x72\\x2e\\x63\\x6f\\x6e\\x6e\\x65\\x63\\x74\\x69\\x6f\\x6e\\x20\\x69\\x73\\x20\\x75\\x6e\\x64\\x65\\x66\\x69\\x6e\\x65\\x64','\\x52\\x65\\x73\\x70\\x6f\\x6e\\x73\\x65','\\x65\\x6e\\x75\\x6d\\x65\\x72\\x61\\x62\\x6c\\x65','\\x6d\\x69\\x6d\\x65\\x54\\x79\\x70\\x65','\\x6c\\x6f\\x67\\x32','\\x50\\x44\\x44\\x41\\x63\\x63\\x65\\x73\\x73\\x54\\x6f\\x6b\\x65\\x6e','\\x52\\x65\\x73\\x70\\x6f\\x6e\\x73\\x65\\x20\\x74\\x79\\x70\\x65\\x20\\x27','\\x67\\x72\\x6f\\x75\\x70\\x45\\x6e\\x"
+  },
+  {
+    "url": "blob:https://mobile.yangkeduo.com/e4c399b0-0107-4f07-a9e9-527c4f8b0ae8",
+    "type": "script",
+    "body_preview": "\n      var timerId = null;\n      self.onmessage = function(e) {\n        var type = e.data.type;\n        var interval = e.data.interval;\n        if (type === 1) {\n          if (timerId) clearInterval(timerId);\n          timerId = setInterval(function() {\n            self.postMessage({ type: 3 });\n          }, interval);\n        } else if (type === 2) {\n          if (timerId) {\n            clearInterval(timerId);\n            timerId = null;\n          }\n        }\n      };\n    "
+  },
+  {
+    "url": "https://mobile.yangkeduo.com/proxy/api/xg/pfb/a3",
+    "type": "xhr",
+    "body_preview": "{\"success\":true,\"errorCode\":200,\"errorMsg\":\"SUCCESS\",\"result\":\"gd9xI9IIuizbR89c0MepM7sxiJkjMGIu\"}"
+  },
+  {
+    "url": "https://mobile.yangkeduo.com/proxy/api/xg/pfb/a4",
+    "type": "xhr",
+    "body_preview": "{\"success\":true,\"errorCode\":200,\"errorMsg\":\"SUCCESS\",\"result\":{\"a\":\"CP3thYejXzgZJhj7rcW90tNCI6P9GVRM\",\"b\":\"itJj2vJSrLi9gOrvctAOk\",\"c\":null,\"d\":null,\"e\":null,\"f\":null,\"g\":null}}"
+  },
+  {
+    "url": "https://xg.pinduoduo.com/xg/pfb/ae4",
+    "type": "xhr",
+    "body_preview": "{\"success\":true,\"errorCode\":200,\"errorMsg\":\"SUCCESS\",\"result\":{}}"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/css/SearchViewUI_23db1b81636f9132c6d6.css",
+    "type": "stylesheet",
+    "body_preview": "._2D4g_xXR{position:relative;display:inline-block;margin:.16rem 0 .14rem .14rem;height:.21rem;line-height:.21rem;font-size:.15rem;color:#9c9c9c}._3XGQDh8T{width:.16rem;height:100%;padding-right:.01rem;margin-right:.06rem;vertical-align:top}\n._3EVDswWX{width:.17rem;height:.13rem;display:flex}._1QvADUXT{width:100%;height:100%;padding-right:.01rem;padding-bottom:.01rem}\n._25Ae8UMh{padding-top:.24rem;text-align:center;color:#9c9c9c;font-size:.14rem}\n._1tQ8ejKJ{display:inline-block;margin-left:.05rem"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/SearchViewUI_f78b6519d271bd2a2f66.js",
+    "type": "script",
+    "body_preview": "(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[9578],{57762:function(e,t,n){var r=n(92127);r(r.P,\"Array\",{fill:n(35564)}),n(88184)(\"fill\")},60923:function(e){e.exports={container:\"_1rLYV-PV\",content:\"_111jFr3o\"}},84685:function(e){e.exports={wrap:\"_2TvI6sZd\",left:\"_374CzHoK\",middle:\"pAMzvtLG\",right:\"_3Bc1ta7C\"}},2990:function(e){e.exports={wrap:\"IROHXzr5\",iconImg:\"_3ko2-KH2\",text:\"XCbsvcn-\"}},16364:function(e){e.exports={wrap:\"vatguCOa\"}},5617:function(e){e.exports="
+  },
+  {
+    "url": "https://mobile.yangkeduo.com/csr/comm_prefetch_goods.html",
+    "type": "document",
+    "body_preview": "<!DOCTYPE html>\n                    <html lang=\"en\">\n                    <head>\n                      <link rel=\"prefetch\" href=\"https://static.pddpic.com/assets/css/react_goods_f3f69f89fd2300e79855.css\">\n                      <link rel=\"prefetch\" href=\"https://static.pddpic.com/assets/js/react_anti_co_7c53431a4571d3bd55ff_1026.js\" crossorigin=\"anonymous\"><link rel=\"prefetch\" href=\"https://static.pddpic.com/assets/js/react_pdd_841cfd18bf81c16fafaf_1026.js\" crossorigin=\"anonymous\"><link rel=\"pref"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/react_anti_co_7c53431a4571d3bd55ff_1026.js",
+    "type": "other",
+    "body_preview": ""
+  },
+  {
+    "url": "https://mobile.yangkeduo.com/proxy/api/search_hotquery?pdduid=9487666397711&plat=h5&source=search",
+    "type": "xhr",
+    "body_preview": "{\"ai_config\":{\"allowed\":false},\"server_time\":1782465342,\"hotqs\":[{\"q\":\"手机机壳\",\"q_search\":{\"pes_req_id\":\"36893feb-4b4b-446a-92f8-7d3057c0088e\"}},{\"q\":\"手机\",\"q_search\":{\"pes_req_id\":\"36893feb-4b4b-446a-92f8-7d3057c0088e\"}},{\"q\":\"洗衣液\",\"tag_list\":[{\"style\":\"1\",\"text\":\"热\",\"border_color\":\"#E02E24\",\"text_color\":\"#E02E24\",\"type\":\"热\"}],\"q_search\":{\"pes_req_id\":\"36893feb-4b4b-446a-92f8-7d3057c0088e\"}},{\"q\":\"茅台\",\"q_search\":{\"pes_req_id\":\"36893feb-4b4b-446a-92f8-7d3057c0088e\"}},{\"q\":\"冰箱\",\"q_search\":{\"pes_req_"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/react_anti_co_7c53431a4571d3bd55ff_1026.js",
+    "type": "xhr",
+    "body_preview": "(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[4612],{47927:function(t,n,r){\"use strict\";r.r(n);var e=r(32455);n.default=e},32455:function(t){\"undefined\"!=typeof self&&self,t.exports=function(t){var n={};function r(e){if(n[e])return n[e].exports;var o=n[e]={i:e,l:!1,exports:{}};return t[e].call(o.exports,o,o.exports,r),o.l=!0,o.exports}return r.m=t,r.c=n,r.d=function(t,n,e){r.o(t,n)||Object.defineProperty(t,n,{enumerable:!0,get:e})},r.r=function(t){\"undefined\"!=type"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/react_pdd_841cfd18bf81c16fafaf_1026.js",
+    "type": "xhr",
+    "body_preview": "(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[5649],{51628:function(e,t,r){\"use strict\";if(r.d(t,{Dz:function(){return V},P8:function(){return F},n4:function(){return Q},vi:function(){return U}}),/^(9(537|559|864|910)|2239|6095)$/.test(r.j))var n=r(16631);if(/^(9(537|559|864|910)|2239|6095)$/.test(r.j))var o=r(64804);if(/^(9(537|559|864|910)|2239|6095)$/.test(r.j))var i=r(53604);if(/^(9(537|559|864|910)|2239|6095)$/.test(r.j))var a=r(11532);var c=r(96371),s=r.n(c),"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/react_pdd_841cfd18bf81c16fafaf_1026.js",
+    "type": "other",
+    "body_preview": ""
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/vendor_7e7824ad4e27b59934b5_1026.js",
+    "type": "xhr",
+    "body_preview": "(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[4121],{71537:function(e){(function(){!function(e){\"use strict\";if(!e.fetch){var t=\"URLSearchParams\"in e,n=\"Symbol\"in e&&\"iterator\"in Symbol,r=\"FileReader\"in e&&\"Blob\"in e&&function(){try{return new Blob,!0}catch(e){return!1}}(),o=\"FormData\"in e,i=\"ArrayBuffer\"in e;if(i)var a=[\"[object Int8Array]\",\"[object Uint8Array]\",\"[object Uint8ClampedArray]\",\"[object Int16Array]\",\"[object Uint16Array]\",\"[object Int32Array]\",\"[objec"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/vendor_7e7824ad4e27b59934b5_1026.js",
+    "type": "other",
+    "body_preview": ""
+  },
+  {
+    "url": "https://static.pddpic.com/assets/css/react_goods_f3f69f89fd2300e79855.css",
+    "type": "other",
+    "body_preview": ""
+  },
+  {
+    "url": "https://static.pddpic.com/assets/css/react_goods_f3f69f89fd2300e79855.css",
+    "type": "xhr",
+    "body_preview": ".pdd-go-to-app{background-color:#e02e24;border-bottom-left-radius:.04rem;border-top-left-radius:.04rem;color:#fff;font-size:.13rem;height:.32rem;line-height:.32rem;margin-top:.12rem;padding-right:.08rem;position:fixed;right:0;text-align:right;top:0;width:.9rem;z-index:10001}.pdd-go-to-app:active{background-color:#c51e14;color:#edbbb8}@supports not (-webkit-overflow-scrolling:touch){.pdd-go-to-app{line-height:.33rem}}.pdd-go-to-app-icon{margin-left:-.03rem}.pdd-go-to-app-icon:before{content:\"î·\""
+  },
+  {
+    "url": "https://mobile.yangkeduo.com/proxy/api/search_hotquery?pdduid=9487666397711&plat=h5&source=search",
+    "type": "xhr",
+    "body_preview": "{\"ai_config\":{\"allowed\":false},\"server_time\":1782465342,\"hotqs\":[{\"q\":\"手机机壳\",\"tag_list\":[{\"style\":\"1\",\"text\":\"热\",\"border_color\":\"#E02E24\",\"text_color\":\"#E02E24\",\"type\":\"热\"}],\"q_search\":{\"pes_req_id\":\"2dde86d1-0f4e-4a1e-9ec4-89d397b45273\"}},{\"q\":\"手机\",\"q_search\":{\"pes_req_id\":\"2dde86d1-0f4e-4a1e-9ec4-89d397b45273\"}},{\"q\":\"洗衣液\",\"q_search\":{\"pes_req_id\":\"2dde86d1-0f4e-4a1e-9ec4-89d397b45273\"}},{\"q\":\"茅台\",\"q_search\":{\"pes_req_id\":\"2dde86d1-0f4e-4a1e-9ec4-89d397b45273\"}},{\"q\":\"冰箱\",\"q_search\":{\"pes_req_"
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/react_goods_3f4ab9f4c4460addb585_1026.js",
+    "type": "other",
+    "body_preview": ""
+  },
+  {
+    "url": "https://static.pddpic.com/assets/js/react_goods_3f4ab9f4c4460addb585_1026.js",
+    "type": "xhr",
+    "body_preview": "!function(){var e,t,n,r,i,o={4575:function(e,t,n){var r={\"./subsidy_notice_dialog\":[59026,9026],\"./subsidy_notice_dialog.tsx\":[59026,9026],\"./subsidy_pinmu_dialog\":[32586,2586],\"./subsidy_pinmu_dialog.tsx\":[32586,2586]};function i(e){if(!n.o(r,e))return Promise.resolve().then((function(){var t=new Error(\"Cannot find module '\"+e+\"'\");throw t.code=\"MODULE_NOT_FOUND\",t}));var t=r[e],i=t[0];return n.e(t[1]).then((function(){return n(i)}))}i.keys=function(){return Object.keys(r)},i.id=4575,e.exports="
+  }
+]

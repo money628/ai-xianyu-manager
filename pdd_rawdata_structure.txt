@@ -1,0 +1,341 @@
+{
+  "stores": {
+    "store": {
+      "errorRedirectUrl": "/",
+      "$ctx": null,
+      "rn": "",
+      "data": {
+        "listID": "ghn7fivvzj",
+        "ssrListData": {
+          "searchKey": "手机壳",
+          "sortType": "default",
+          "priceIndex": -1,
+          "price": "",
+          "customPrice": "",
+          "selectedProperty": {},
+          "selectedPropertyTag": {},
+          "selectedPropertyRec": {},
+          "brandFilter": {},
+          "brandTabFilterSelected": 0,
+          "correctWordInfo": {
+            "showCorrect": false,
+            "correctShowType": 0,
+            "correctWord": "",
+            "qcLevel": 0,
+            "qOpt": 0,
+            "qcTwo": ""
+          },
+          "filterPropertyTag": [],
+          "sortConfig": [],
+          "tagNameList": [],
+          "filterPropertyStyle": 0,
+          "filterPrice": [],
+          "filterNotShowPrice": false,
+          "list": [],
+          "listStyle": 0,
+          "waistRecData": [],
+          "expansionList": [],
+          "headerList": {},
+          "searchExt": {},
+          "rcmdQueryInfo": {
+            "rcmdQuery": "",
+            "rcmdQueryList": []
+          },
+          "tabSearchList": [
+            {
+              "searchQuery": "手机壳"
+            }
+          ],
+          "selectedTagName": "",
+          "showAddressFilter": true,
+          "userType": 0,
+          "queryMode": 0,
+          "isNoResultList": true,
+          "isRisk": false,
+          "isBlack": false,
+          "rn": "",
+          "lastPage": false,
+          "flip": "",
+          "page": 1,
+          "actFilterSelectOrigin": [],
+          "addressFilterSelectOrigin": 0,
+          "isSort": false,
+          "searchMet": "",
+          "guessQuery": {},
+          "specialQuery": {},
+          "hideSortBar": false,
+          "pSearch": "",
+          "preLoad": {},
+          "searchMetTab": "",
+          "rnTab": "",
+          "hasError": true,
+          "loadSearchResultTracking": {
+            "op": "event",
+            "sub_op": "search",
+            "req_params": "{\"item_ver\":\"lzqq\",\"support_enhance_type\":1,\"coupon_price_flag\":1,\"source\":\"search\",\"search_met\":\"\",\"list_id\":\"ghn7fivvzj\",\"sort\":\"default\",\"filter\":\"\",\"q\":\"手机壳\",\"page\":1,\"is_new_query\":1,\"size\":50}",
+            "query": "手机壳",
+            "sort": "default",
+            "is_sort": 0,
+            "page_index": 1,
+            "page_size": 50
+          },
+          "firstFilter": ""
+        },
+        "searchTagsInfo": {
+          "searchTags": [
+            {
+              "k": "手机壳",
+              "t": "w"
+            }
+          ],
+          "searchQuery": "手机壳",
+          "showTagsArr": [
+            {
+              "k": "手机壳"
+            }
+          ],
+          "showTagsQueryArr": [
+            "手机壳"
+          ]
+        },
+        "searchKey": "手机壳",
+        "isSearchMall": false,
+        "urlInfo": {
+          "filterReq": "",
+          "searchKey": "手机壳",
+          "searchTagsInfo": {
+            "searchTags": [
+              {
+                "k": "手机壳",
+                "t": "w"
+              }
+            ],
+            "searchQuery": "手机壳",
+            "showTagsArr": [
+              {
+                "k": "手机壳"
+              }
+            ],
+            "showTagsQueryArr": [
+              "手机壳"
+            ]
+          },
+          "showQuery": "手机壳",
+          "sortType": "default",
+          "priceIndex": -1,
+          "price": "",
+          "customPrice": "",
+          "itemIndex": 0,
+          "sp": 0,
+          "selectedProperty": {},
+          "selectedPropertyTag": {},
+          "selectedPropertyRec": {},
+          "brandFilter": {},
+          "brandTabFilterSelected": 0,
+          "isBack": false,
+          "flip": "",
+          "urlApiParams": {
+            "source": "search",
+            "search_met": ""
+          },
+          "isSearchMall": false,
+          "showMask": false,
+          "hideAddrFilter": false,
+          "tabSearchIndex": 0
+        },
+        "hasLogin": true,
+        "nodeServerTime": 1782465136436,
+        "canMallSuggest": true,
+        "canSearchMall": true,
+        "source": "search",
+        "showMask": false
+      },
+      "initialState": {
+        "searchKey": "手机壳",
+        "sortType": "default",
+        "priceIndex": -1,
+        "price": "",
+        "customPrice": "",
+        "selectedProperty": {},
+        "selectedPropertyTag": {},
+        "selectedPropertyRec": {},
+        "brandFilter": {},
+        "brandTabFilterSelected": 0,
+        "correctWordInfo": {
+          "showCorrect": false,
+          "correctShowType": 0,
+          "correctWord": "",
+          "qcLevel": 0,
+          "qOpt": 0,
+          "qcTwo": ""
+        },
+        "actFilterConfig": [],
+        "actFilterConfigForNextQuery": [],
+        "filterPropertyTag": [],
+        "sortConfig": [],
+        "filterProperty": [],
+        "tagNameList": [],
+        "filterPropertyStyle": 1,
+        "filterPrice": {},
+        "filterTotalNumStr": "",
+        "filterNotShowPrice": false,
+        "list": [],
+        "listStyle": 0,
+        "waistRecData": [],
+        "expansionList": [],
+        "headerList": {},
+        "headerTips": {},
+        "searchExt": {},
+        "rcmdQueryInfo": {},
+        "tabSearchList": [
+          {
+            "searchQuery": "手机壳"
+          }
+        ],
+        "selectedTagName": "",
+        "showAddressFilter": false,
+        "userType": 0,
+        "queryMode": 0,
+        "isNoResultList": false,
+        "isRisk": false,
+        "isBlack": false,
+        "rn": "",
+        "lastPage": false,
+        "flip": "",
+        "page": 1,
+        "actFilterSelectOrigin": [],
+        "addressFilterSelectOrigin": 0,
+        "isSort": false,
+        "searchMet": "",
+        "guessQuery": {},
+        "specialQuery": {},
+        "hideSortBar": false,
+        "pSearch": "",
+        "preLoad": {},
+        "searchMetTab": "",
+        "rnTab": "",
+        "hasError": true,
+        "loadSearchResultTracking": {
+          "op": "event",
+          "sub_op": "search",
+          "req_params": "{\"item_ver\":\"lzqq\",\"support_enhance_type\":1,\"coupon_price_flag\":1,\"source\":\"search\",\"search_met\":\"\",\"list_id\":\"ghn7fivvzj\",\"sort\":\"default\",\"filter\":\"\",\"q\":\"手机壳\",\"page\":1,\"is_new_query\":1,\"size\":50}",
+          "query": "手机壳",
+          "sort": "default",
+          "is_sort": 0,
+          "page_index": 1,
+          "page_size": 50
+        },
+        "firstFilter": "",
+        "addressFilterSelectOpened": false,
+        "filterReq": ""
+      },
+      "canSearchImage": false,
+      "isServerRendered": true,
+      "isFinishInitLoading": true,
+      "isSearchBarFixed": false,
+      "isShowGoToApp": true,
+      "grayLayerShowParamSet": {
+        "0": {
+          "showFilter": false,
+          "curTabActiveIndex": -1
+        }
+      },
+      "searchTags": [
+        {
+          "k": "手机壳",
+          "t": "w"
+        }
+      ],
+      "dataMap": {
+        "0": {
+          "searchKey": "手机壳",
+          "sortType": "default",
+          "priceIndex": -1,
+          "price": "",
+          "customPrice": "",
+          "selectedProperty": {},
+          "selectedPropertyTag": {},
+          "selectedPropertyRec": {},
+          "brandFilter": {},
+          "brandTabFilterSelected": 0,
+          "correctWordInfo": {
+            "showCorrect": false,
+            "correctShowType": 0,
+            "correctWord": "",
+            "qcLevel": 0,
+            "qOpt": 0,
+            "qcTwo": ""
+          },
+          "filterPropertyTag": [],
+          "sortConfig": [],
+          "tagNameList": [],
+          "filterPropertyStyle": 0,
+          "filterPrice": [],
+          "filterNotShowPrice": false,
+          "list": [],
+          "listStyle": 0,
+          "waistRecData": [],
+          "expansionList": [],
+          "headerList": {},
+          "searchExt": {},
+          "rcmdQueryInfo": {
+            "rcmdQuery": "",
+            "rcmdQueryList": []
+          },
+          "tabSearchList": [
+            {
+              "searchQuery": "手机壳"
+            }
+          ],
+          "selectedTagName": "",
+          "showAddressFilter": true,
+          "userType": 0,
+          "queryMode": 0,
+          "isNoResultList": true,
+          "isRisk": false,
+          "isBlack": false,
+          "rn": "",
+          "lastPage": false,
+          "flip": "",
+          "page": 2,
+          "actFilterSelectOrigin": [],
+          "addressFilterSelectOrigin": 0,
+          "isSort": false,
+          "searchMet": "",
+          "guessQuery": {},
+          "specialQuery": {},
+          "hideSortBar": false,
+          "pSearch": "",
+          "preLoad": {},
+          "searchMetTab": "",
+          "rnTab": "",
+          "hasError": true,
+          "loadSearchResultTracking": {
+            "op": "event",
+            "sub_op": "search",
+            "req_params": "{\"item_ver\":\"lzqq\",\"support_enhance_type\":1,\"coupon_price_flag\":1,\"source\":\"search\",\"search_met\":\"\",\"list_id\":\"ghn7fivvzj\",\"sort\":\"default\",\"filter\":\"\",\"q\":\"手机壳\",\"page\":1,\"is_new_query\":1,\"size\":50}",
+            "query": "手机壳",
+            "sort": "default",
+            "is_sort": 0,
+            "page_index": 1,
+            "page_size": 50
+          },
+          "firstFilter": "",
+          "addressFilterSelectOpened": false
+        }
+      },
+      "tabSearchIndex": 0,
+      "longPressGoodsID": null,
+      "disableImageMaskGray": true,
+      "showSimilarEntryGray": false,
+      "statusbarHeight": 0,
+      "navigationHeight": 0,
+      "isImmersive": false,
+      "needReReadImmersiveInfo": false,
+      "listFontsize": "D",
+      "enableChangeDefaultErrorMsg": true,
+      "isDarkTheme": false,
+      "rnForReport": ""
+    }
+  }
+}

@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.spec
+*.bak
+
+# 配置密钥
+config.ini
+.env
+
+# 数据
+data/
+storage/
+logs/
+outputs/
+
+# 测试文件
+test_*.py
+scripts/
+diagnostic/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 其他
+app_output.log
+app_icon.png
+*.bat

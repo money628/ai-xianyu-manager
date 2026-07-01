@@ -1,0 +1,166 @@
+[
+    {
+        "name": "真匹配: 闪魔K80同品牌同型号",
+        "xy_title": "闪魔适用红米K80手机膜钢化膜防窥高清",
+        "pdd_title": "闪魔适用红米k80手机膜红米k90max手机膜k70全覆盖",
+        "xy_price": 99.0,
+        "pdd_price": 12.8,
+        "expect_decision": "match",
+        "expect_grade_min": "A"
+    },
+    {
+        "name": "品牌不同应拒绝: 闪魔vs绿光魔盒",
+        "xy_title": "闪魔适用于红米K80手机膜钢化膜防窥",
+        "pdd_title": "绿光魔盒适用于红米K80手机膜",
+        "xy_price": 99.0,
+        "pdd_price": 9.8,
+        "expect_decision": "reject"
+    },
+    {
+        "name": "型号冲突: K80 vs K90",
+        "xy_title": "闪魔适用红米K80手机膜",
+        "pdd_title": "闪魔适用红米K90手机膜",
+        "xy_price": 99.0,
+        "pdd_price": 12.8,
+        "expect_decision": "reject"
+    },
+    {
+        "name": "品类冲突: 手机膜 vs 手机壳",
+        "xy_title": "闪魔适用红米K80钢化膜",
+        "pdd_title": "闪魔适用红米K80手机壳",
+        "xy_price": 99.0,
+        "pdd_price": 15.0,
+        "expect_decision": "reject"
+    },
+    {
+        "name": "功能冲突: 防窥vs高清",
+        "xy_title": "K80防窥膜钢化膜",
+        "pdd_title": "K80高清钢化膜",
+        "xy_price": 30.0,
+        "pdd_price": 5.0,
+        "expect_decision": "match",
+        "expect_grade_max": "B"
+    },
+    {
+        "name": "型号冲突: iPhone16 vs iPhone16Pro",
+        "xy_title": "iPhone16钢化膜",
+        "pdd_title": "iPhone16Pro钢化膜",
+        "xy_price": 50.0,
+        "pdd_price": 8.0,
+        "expect_decision": "reject"
+    },
+    {
+        "name": "多型号PDD包含目标型号",
+        "xy_title": "闪魔K80手机膜防窥",
+        "pdd_title": "闪魔适用K80/K90/K70手机膜",
+        "xy_price": 99.0,
+        "pdd_price": 12.8,
+        "expect_decision": "match"
+    },
+    {
+        "name": "数量不一致: 2片 vs 1片",
+        "xy_title": "闪魔K80手机膜2片装",
+        "pdd_title": "闪魔K80手机膜1片",
+        "xy_price": 50.0,
+        "pdd_price": 8.0,
+        "expect_decision": "match",
+        "expect_risk": "quantity_mismatch"
+    },
+    {
+        "name": "低价引流识别",
+        "xy_title": "闪魔K80钢化膜",
+        "pdd_title": "闪魔K80钢化膜",
+        "xy_price": 50.0,
+        "pdd_price": 0.5,
+        "expect_decision": "match",
+        "expect_risk": "low_price_teaser"
+    },
+    {
+        "name": "未知品牌同型号应通过",
+        "xy_title": "K80手机膜钢化",
+        "pdd_title": "适用K80钢化膜",
+        "xy_price": 30.0,
+        "pdd_price": 5.0,
+        "expect_decision": "match"
+    },
+    {
+        "name": "category blank: 两边都无品类",
+        "xy_title": "K80防窥高清",
+        "pdd_title": "K80防摔透明",
+        "xy_price": 30.0,
+        "pdd_price": 8.0,
+        "expect_decision": "match"
+    },
+    {
+        "name": "iPhone16ProMax vs iPhone16Pro",
+        "xy_title": "iPhone16ProMax钢化膜",
+        "pdd_title": "iPhone16Pro钢化膜",
+        "xy_price": 80.0,
+        "pdd_price": 12.0,
+        "expect_decision": "reject"
+    },
+    {
+        "name": "负面型号排除",
+        "xy_title": "红米K80钢化膜",
+        "pdd_title": "红米K80钢化膜不适用K80Pro",
+        "xy_price": 40.0,
+        "pdd_price": 8.0,
+        "expect_decision": "match"
+    },
+    {
+        "name": "品类未知应通过",
+        "xy_title": "闪魔K80全屏覆盖",
+        "pdd_title": "闪魔K80全屏覆盖高清",
+        "xy_price": 50.0,
+        "pdd_price": 10.0,
+        "expect_decision": "match"
+    },
+    {
+        "name": "充电器品类匹配",
+        "xy_title": "品胜20W快充充电器适用iPhone",
+        "pdd_title": "品胜PD20W快充头iPhone充电器",
+        "xy_price": 35.0,
+        "pdd_price": 15.0,
+        "expect_decision": "match"
+    },
+    {
+        "name": "数据线型号不同应拒绝",
+        "xy_title": "vivo 120W数据线Type-C",
+        "pdd_title": "华为100W数据线Type-C",
+        "xy_price": 29.0,
+        "pdd_price": 6.0,
+        "expect_decision": "reject_or_low_grade"
+    },
+    {
+        "name": "充电器vs数据线品类冲突",
+        "xy_title": "品胜20W充电器",
+        "pdd_title": "品胜20W数据线",
+        "xy_price": 35.0,
+        "pdd_price": 8.0,
+        "expect_decision": "reject"
+    },
+    {
+        "name": "同型号功能兼容: 高清+防窥组合",
+        "xy_title": "K80防窥钢化膜高清",
+        "pdd_title": "K80高清防窥钢化膜",
+        "xy_price": 40.0,
+        "pdd_price": 8.0,
+        "expect_decision": "match"
+    },
+    {
+        "name": "磁吸vs非磁吸功能冲突",
+        "xy_title": "iPhone16磁吸手机壳",
+        "pdd_title": "iPhone16透明手机壳非磁吸",
+        "xy_price": 60.0,
+        "pdd_price": 8.0,
+        "expect_decision": "match"
+    },
+    {
+        "name": "PDD多型号但无精确匹配",
+        "xy_title": "红米Note13钢化膜",
+        "pdd_title": "适用红米Note12/14/K80钢化膜",
+        "xy_price": 25.0,
+        "pdd_price": 5.0,
+        "expect_decision": "reject"
+    }
+]

@@ -1,0 +1,46 @@
+version: "3.8"
+
+services:
+  app:
+    build: .
+    container_name: ai-storekeeper
+    ports:
+      - "8501:8501"
+      - "8000:8000"
+    volumes:
+      - ./config.ini:/app/config.ini:ro
+      - ai_data:/app/data
+      - ai_storage:/app/storage
+      - ai_logs:/app/logs
+    environment:
+      - APP_ENV=production
+      - TZ=Asia/Shanghai
+      - XIANYU_HEADLESS=true
+      - PDD_HEADLESS=true
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 90s
+
+  scheduler:
+    build: .
+    container_name: ai-storekeeper-scheduler
+    volumes:
+      - ./config.ini:/app/config.ini:ro
+      - ai_data:/app/data
+      - ai_storage:/app/storage
+      - ai_logs:/app/logs
+    environment:
+      - TZ=Asia/Shanghai
+      - XIANYU_HEADLESS=true
+      - PDD_HEADLESS=true
+    restart: unless-stopped
+    command: python run_scan.py --interval 60
+
+volumes:
+  ai_data:
+  ai_storage:
+  ai_logs:

@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://mobile.yangkeduo.com/proxy/api/xg/pfb/a3",
+    "status": 200,
+    "type": "xhr",
+    "body": "{\"success\":true,\"errorCode\":200,\"errorMsg\":\"SUCCESS\",\"result\":\"gd9xI9IIuizbR89c0MepM7sxiJkjMGIu\"}"
+  },
+  {
+    "url": "https://mobile.yangkeduo.com/proxy/api/api/sec-csp/1/report",
+    "status": 200,
+    "type": "other",
+    "body": ""
+  },
+  {
+    "url": "https://mobile.yangkeduo.com/proxy/api/xg/pfb/a4",
+    "status": 200,
+    "type": "xhr",
+    "body": "{\"success\":true,\"errorCode\":200,\"errorMsg\":\"SUCCESS\",\"result\":{\"a\":\"CP3thYejXzgZJhj7rcW90tNCI6P9GVRM\",\"b\":\"itJj2vJSrLi9gOrvctAOk\",\"c\":null,\"d\":null,\"e\":null,\"f\":null,\"g\":null}}"
+  },
+  {
+    "url": "https://mobile.yangkeduo.com/proxy/api/api/sec-csp/1/report",
+    "status": 200,
+    "type": "other",
+    "body": ""
+  },
+  {
+    "url": "https://mobile.yangkeduo.com/proxy/api/search_hotquery?pdduid=9487666397711&plat=h5&source=search",
+    "status": 200,
+    "type": "xhr",
+    "body": "{\"ai_config\":{\"allowed\":false},\"server_time\":1782465214,\"hotqs\":[{\"q\":\"手机机壳\",\"q_search\":{\"pes_req_id\":\"81859202-0fba-4294-8f1d-978b751b2275\"}},{\"q\":\"女童夏装\",\"tag_list\":[{\"style\":\"1\",\"text\":\"热\",\"border_color\":\"#E02E24\",\"text_color\":\"#E02E24\",\"type\":\"热\"}],\"q_search\":{\"pes_req_id\":\"81859202-0fba-4294-8f1d-978b751b2275\"}},{\"q\":\"女装童装\",\"q_search\":{\"pes_req_id\":\"81859202-0fba-4294-8f1d-978b751b2275\"}},{\"q\":\"洗衣液\",\"q_search\":{\"pes_req_id\":\"81859202-0fba-4294-8f1d-978b751b2275\"}},{\"q\":\"手机\",\"q_search\":{\"pes_req_id\":\"81859202-0fba-4294-8f1d-978b751b2275\"}},{\"q\":\"童装女\",\"q_search\":{\"pes_req_id\":\"81859202-0fba-4294-8f1d-978b751b2275\"}},{\"q\":\"洗发水\",\"q_search\":{\"pes_req_id\":\"81859202-0fba-4294-8f1d-978b751b2275\"}},{\"q\":\"女童装夏\",\"q_search\":{\"pes_req_id\":\"81859202-0fba-4294-8f1d-978b751b2275\"}},{\"q\":\"猫粮\",\"q_search\":{\"pes_req_id\":\"81859202-0fba-4294-8f1d-978b751b2275\"}},{\"q\":\"iphone17pro\",\"q_search\":{\"pes_req_id\":\"81859202-0fba-4294-8f1d-978b751b2275\"}},{\"q\":\"茅台\",\"q_search\":{\"pes_req_id\":\"81859202-0fba-4294-8f1d-978b751b2275\"}},{\"q\":\"猫砂\",\"q_search\":{\"pes_req_id\":\"81859202-0fba-4294-8f1d-978b751b2275\"}},{\"q\":\"空调\",\"q_search\":{\"pes_req_id\":\"81859202-0fba-4294-8f1d-978b751b2275\"}},{\"q\":\"冰箱\",\"q_search\":{\"pes_req_id\":\"81859202-0fba-4294-8f1d-978b751b2275\"}},{\"q\":\"2026女童装\",\"q_search\":{\"pes_req_id\":\"81859202-0fba-4294-8f1d-978b751b2275\"}},{\"q\":\"红米k90\",\"q_search\":{\"pes_req_id\":\"81859202-0fba-4294-8f1d-978b751b2275\"}},{\"q\":\"飞天茅台\",\"q_search\":{\"pes_req_id\":\"81859202-0fba-4294-8f1d-978b751b2275\"}},{\"q\":\"洗衣机\",\"q_search\":{\"pes_req_id\":\"81859202-0fba-4294-8f1d-978b751b2275\"}},{\"q\":\"opporeno15\",\"q_search\":{\"pes_req_id\":\"81859202-0fba-4294-8f1d-978b751b2275\"}},{\"q\":\"童童女装\",\"q_search\":{\"pes_req_id\":\"81859202-0fba-4294-8f1d-978b751b2275\"}}],\"org\":2,\"shade\":{\"goods_trigger\":0,\"query\":\"手机壳\",\"q_search\":{\"pes_req_id\":\"81859202-0fba-4294-8f1d-978b751b2275\",\"dpt\":\"1\",\"icon_type\":\"火\"},\"prefix_icon\":{\"width\":\"16\",\"url\":\"https://promotion.pddpic.com/promo/pic_search/a94f7303-1ad4-4b0f-9378-0adec58e804f.png.slim.png\",\"height\":\"16\"},\"prefix_icon_type\":\"火\"},\"dpt\":1,\"user_characteristics\":0,\"title\":\"搜索发现\",\"req_id\":\"81859202-0fba-4294-8f1d-978b751b2275\",\"shade_play_interval\":0,\"server_time_ms\":1782465214349,\"shade_type\":0,\"items\":[\"手机机壳\",\"女童夏装\",\"女装童装\",\"洗衣液\",\"手机\",\"童装女\",\"洗发水\",\"女童装夏\",\"猫粮\",\"iphone17pro\",\"茅台\",\"猫砂\",\"空调\",\"冰箱\",\"2026女童装\",\"红米k90\",\"飞天茅台\",\"洗衣机\",\"opporeno15\",\"童童女装\"]}"
+  },
+  {
+    "url": "https://mobile.yangkeduo.com/proxy/api/search_hotquery?pdduid=9487666397711&plat=h5&source=search",
+    "status": 200,
+    "type": "xhr",
+    "body": "{\"ai_config\":{\"allowed\":false},\"server_time\":1782465214,\"hotqs\":[{\"q\":\"手机机壳\",\"tag_list\":[{\"style\":\"1\",\"text\":\"热\",\"border_color\":\"#E02E24\",\"text_color\":\"#E02E24\",\"type\":\"热\"}],\"q_search\":{\"pes_req_id\":\"13413889-4151-4695-a7d2-582572897e36\"}},{\"q\":\"女童夏装\",\"q_search\":{\"pes_req_id\":\"13413889-4151-4695-a7d2-582572897e36\"}},{\"q\":\"女装童装\",\"q_search\":{\"pes_req_id\":\"13413889-4151-4695-a7d2-582572897e36\"}},{\"q\":\"洗衣液\",\"q_search\":{\"pes_req_id\":\"13413889-4151-4695-a7d2-582572897e36\"}},{\"q\":\"手机\",\"q_search\":{\"pes_req_id\":\"13413889-4151-4695-a7d2-582572897e36\"}},{\"q\":\"童装女\",\"q_search\":{\"pes_req_id\":\"13413889-4151-4695-a7d2-582572897e36\"}},{\"q\":\"洗发水\",\"q_search\":{\"pes_req_id\":\"13413889-4151-4695-a7d2-582572897e36\"}},{\"q\":\"女童装夏\",\"q_search\":{\"pes_req_id\":\"13413889-4151-4695-a7d2-582572897e36\"}},{\"q\":\"猫粮\",\"q_search\":{\"pes_req_id\":\"13413889-4151-4695-a7d2-582572897e36\"}},{\"q\":\"iphone17pro\",\"q_search\":{\"pes_req_id\":\"13413889-4151-4695-a7d2-582572897e36\"}},{\"q\":\"茅台\",\"q_search\":{\"pes_req_id\":\"13413889-4151-4695-a7d2-582572897e36\"}},{\"q\":\"猫砂\",\"q_search\":{\"pes_req_id\":\"13413889-4151-4695-a7d2-582572897e36\"}},{\"q\":\"空调\",\"q_search\":{\"pes_req_id\":\"13413889-4151-4695-a7d2-582572897e36\"}},{\"q\":\"冰箱\",\"q_search\":{\"pes_req_id\":\"13413889-4151-4695-a7d2-582572897e36\"}},{\"q\":\"2026女童装\",\"q_search\":{\"pes_req_id\":\"13413889-4151-4695-a7d2-582572897e36\"}},{\"q\":\"红米k90\",\"q_search\":{\"pes_req_id\":\"13413889-4151-4695-a7d2-582572897e36\"}},{\"q\":\"飞天茅台\",\"q_search\":{\"pes_req_id\":\"13413889-4151-4695-a7d2-582572897e36\"}},{\"q\":\"洗衣机\",\"q_search\":{\"pes_req_id\":\"13413889-4151-4695-a7d2-582572897e36\"}},{\"q\":\"opporeno15\",\"q_search\":{\"pes_req_id\":\"13413889-4151-4695-a7d2-582572897e36\"}},{\"q\":\"童童女装\",\"q_search\":{\"pes_req_id\":\"13413889-4151-4695-a7d2-582572897e36\"}}],\"org\":2,\"shade\":{\"goods_trigger\":0,\"query\":\"手机壳\",\"q_search\":{\"pes_req_id\":\"13413889-4151-4695-a7d2-582572897e36\",\"dpt\":\"1\",\"icon_type\":\"火\"},\"prefix_icon\":{\"width\":\"16\",\"url\":\"https://promotion.pddpic.com/promo/pic_search/a94f7303-1ad4-4b0f-9378-0adec58e804f.png.slim.png\",\"height\":\"16\"},\"prefix_icon_type\":\"火\"},\"dpt\":1,\"user_characteristics\":0,\"title\":\"搜索发现\",\"req_id\":\"13413889-4151-4695-a7d2-582572897e36\",\"shade_play_interval\":0,\"server_time_ms\":1782465214447,\"shade_type\":0,\"items\":[\"手机机壳\",\"女童夏装\",\"女装童装\",\"洗衣液\",\"手机\",\"童装女\",\"洗发水\",\"女童装夏\",\"猫粮\",\"iphone17pro\",\"茅台\",\"猫砂\",\"空调\",\"冰箱\",\"2026女童装\",\"红米k90\",\"飞天茅台\",\"洗衣机\",\"opporeno15\",\"童童女装\"]}"
+  },
+  {
+    "url": "https://mobile.yangkeduo.com/proxy/api/api/sec-csp/1/report",
+    "status": 200,
+    "type": "other",
+    "body": ""
+  }
+]
